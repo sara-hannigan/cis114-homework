@@ -1,0 +1,65 @@
+/* Sara Hannigan
+   sarahannigan@my.smccd.edu
+   CIS 114 OL
+   music.css
+   Final Assignment
+   12/14/2020
+*/
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 87.5%;
+	width: 600px;
+	margin: 0 auto;
+	padding: 15px 25px;	
+	border: 3px solid blue;
+}
+p {
+	padding: .2em;
+}
+#mydiv {
+	margin: auto;
+	display: block;
+	text-align: center;
+	margin-bottom: 2em;
+}
+#searchButton  {
+	margin: 15dp;
+	padding: 10px;
+	text-align: center;
+	display: inline-block;
+	font-size: 14px;
+}
+#userInput {
+	margin: 15dp;
+	padding: 10px;
+	text-align: left;
+	display: inline-block;
+	font-size: 14px;
+	width: 15em;
+}
+#photos {
+	text-align: left;
+	position: relative;
+	font-size: 110%;
+}
+#album {
+	display: block;
+	margin: 5px;
+	position: relative;
+	vertical-align: middle;
+}
+#logo {
+	margin: 0 auto;
+	display: block;
+	width: 20%;
+}
+#art {
+	width: 20%;
+	height: 20%;
+	float: left;
+	margin-right: 15px;
+}
