@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sara Hannigan</title>
+    <link rel="stylesheet" href="form.css">
+   <!--<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"> --> <!-- load bootstrap via CDN -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script> <!-- load jquery via CDN -->
+</head>
+<body>
+<div class="">
+
+    <h1>Processing a Form</h1>
+
+    <!-- OUR FORM -->
+    <form action="form.html" method="GET" id="myForm" name="myForm">
+
+        <!-- NAME -->
+        <div id="name-group" class="form-group">
+            <label for="name">Name</label>
+            <input type="text" class="form-control" id="name" placeholder="Tony Stark"><span></span>
+        </div>
+
+        <!-- EMAIL -->
+        <div id="email-group" class="form-group">
+            <label for="email">Email</label>
+            <input type="text" class="form-control" id="email" placeholder="tstark@avengers.com"><span></span>
+        </div>
+
+        <!-- SUPERHERO ALIAS -->
+        <div id="superhero-group" class="form-group">
+            <label for="superheroAlias">Superhero Alias</label>
+            <input type="text" class="form-control" id="superheroAlias" placeholder="Iron Man"><span></span>
+        </div>
+
+        <button type="submit" class="submit" id="submit">Submit</button>
+
+    </form>
+
+</div>
+</body>
+<script src="form.js"></script> <!-- load our javascript file -->
+</html>

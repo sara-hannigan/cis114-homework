@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  font-weight: 400;
+}
+h1 {
+  text-align: center;
+}
+header{
+  margin-left: 30%;
+  clear: left;
+  font-size: 2em;
+}
+span{
+  float: left;
+  }
+h2{
+  /*margin-left: 35%;*/
+  margin-top: 1em;
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+img{
+  display: block;
+  max-height: 30%;
+  max-width: 30%;
+  margin: auto;
+}
+p{
+  width: 60%;
+  margin-left: 20%;
+  font-size: 1em;
+}
+

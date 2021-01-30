@@ -1,0 +1,16 @@
+        // employees 		// positions
+        Pamela Beesly		Receptionist
+        Andy Bernard	 	Sales Director
+        Creed Bratton		Quality Assurance
+        Jim Halpert	 	Assistant Regional Manager
+        Ryan Howard		Vice President, North East
+        Stanley Hudson	 	Sales Representative
+        Kelly Kapoor		Customer Service Rep.
+        Phyllis Lapin		Sales Representative
+        Kevin Malone		Accountant
+        Angela Martin		Senior Accountant
+        Oscar Martinez		Accountant
+        Meredith Palmer		Supplier Relations
+        Dwight Schrute		Assistant Regional Manager
+        Michael Scott		Regional Manager
+        Toby Flenderson	 	Human Resources Manager
